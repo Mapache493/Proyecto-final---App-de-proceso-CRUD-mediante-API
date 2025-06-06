@@ -1,0 +1,31 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Rick Sanchez",
+      "species": "Human",
+      "gender": "Male",
+      "status": "Alive",
+      "origin": "Earth (C-137)",
+      "location": "Citadel of Ricks",
+      "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+    }
+  ],
+  "episodes": [
+    {
+      "id": 1,
+      "name": "Pilot",
+      "episode": "S01E01",
+      "air_date": "December 2, 2013",
+      "characters": [1]
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Earth (C-137)",
+      "type": "Planet",
+      "dimension": "Dimension C-137"
+    }
+  ]
+}
